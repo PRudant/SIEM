@@ -1,6 +1,4 @@
-# Projet SIEM Avancé avec Intégration d'IA pour l'Analyse de Logs
-
-## Présentation
+# Présentation - Projet SIEM Avancé avec Intégration d'IA pour l'Analyse de Logs
 
 ## 1. Introduction :
 
