@@ -1,10 +1,51 @@
+# Présentation : Projet SIEM Avancé avec Intégration d'IA pour l'Analyse de Logs
+
+## Introduction :
+
+- Bonjour à tous,
+- Je vous présenter notre projet innovant axé sur la sécurité de l'information, intitulé "SIEM Avancé avec Intégration d'IA pour l'Analyse de Logs". Ce projet vise à simplifier et à améliorer la gestion des logs, en mettant en place un serveur de récolte de logs intelligent et en intégrant des capacités d'analyse avancées basées sur l'intelligence artificielle.
+
+---
+
+## Description du Projet :
+
+- Le cœur de notre projet repose sur la mise en place d'un serveur de récolte de logs utilisant Promtail (Loki / Prometheus) avec une focalisation particulière sur les logs générés par les systèmes Windows. Cette infrastructure robuste permet de collecter de manière efficace et sécurisée les informations cruciales provenant des divers composants de votre environnement informatique.
+
+---
+
+## Objectifs Principaux :
+
+- Analyse Intelligente des Logs : Nous intégrons des techniques d'intelligence artificielle pour comprendre et interpréter les logs de manière avancée. Cette approche permet de détecter rapidement les anomalies, d'identifier les patterns significatifs, et d'améliorer la réactivité face aux incidents.
+- Facilitation de la Recherche d'Erreurs : Notre outil vise à simplifier la recherche d'erreurs dans les logs, en offrant une interface conviviale pour l'exploration et la visualisation des données. Cela permet de gagner du temps et d'améliorer l'efficacité des équipes opérationnelles.
+- Classification et Regroupement : Nous proposons des fonctionnalités avancées de classification et de regroupement des logs, facilitant ainsi la compréhension globale des informations. Cela permet de structurer les données pour une analyse plus approfondie et une prise de décision éclairée.
+
+---
+
+## Bénéfices Clés :
+
+- Amélioration de la Sécurité : Détectez rapidement les menaces potentielles et réduisez le temps de réponse face aux incidents de sécurité.
+- Gain de Temps : Simplifiez la recherche d'erreurs et d'informations critiques dans les logs.
+- Optimisation des Ressources : Classifiez et regroupez les logs pour une analyse plus efficace et une meilleure utilisation des ressources.
+
+---
+
+## Conclusion :
+
+- En résumé, notre projet SIEM avancé offre une solution complète pour la gestion intelligente des logs, combinant des outils de récolte performants avec des capacités d'analyse avancées. Nous sommes convaincus que cette approche révolutionnaire renforcera la sécurité de votre infrastructure tout en simplifiant la gestion quotidienne des logs.
+
+- Merci de votre attention, et nous sommes impatients de partager davantage sur ce projet prometteur.Cahier des charges.md
+
+---
+
+---
+
 # Cahier des Charges Complet - Projet SIEM Avancé avec Intégration d'IA pour l'Analyse de Logs
 
 ---
 
 ## 1. Introduction
 
-Le projet vise à développer un système de Gestion des Informations et des Événements de Sécurité (SIEM) avancé, intégrant des fonctionnalités d'analyse basées sur l'intelligence artificielle, pour optimiser la collecte, l'analyse, et la compréhension des logs générés par les systèmes Windows.
+- Le projet vise à développer un système de Gestion des Informations et des Événements de Sécurité (SIEM) avancé, intégrant des fonctionnalités d'analyse basées sur l'intelligence artificielle, pour optimiser la collecte, l'analyse, et la compréhension des logs générés par les systèmes Windows.
 
 ---
 
