@@ -33,7 +33,7 @@
 
 - En résumé, notre projet SIEM avancé offre une solution complète pour la gestion intelligente des logs, combinant des outils de récolte performants avec des capacités d'analyse avancées. Nous sommes convaincus que cette approche révolutionnaire renforcera la sécurité de votre infrastructure tout en simplifiant la gestion quotidienne des logs.
 
-- Merci de votre attention, et nous sommes impatients de partager davantage sur ce projet prometteur.Cahier des charges.md
+- Merci de votre attention, et nous sommes impatients de partager davantage sur ce projet prometteur.
 
 ---
 
